@@ -13,7 +13,7 @@ A TypeScript-based server project.
 1. Clone the repository:
 ```bash
 git clone git@github.com:jefersonprimer/mcp-primer-server.git
-cd mcp-montano-server
+cd mcp-primer-server
 ```
 
 2. Install dependencies:
