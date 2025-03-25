@@ -1,4 +1,4 @@
-# MCP Montano Server
+# MCP Primer Server
 
 A TypeScript-based server project.
 
@@ -12,7 +12,7 @@ A TypeScript-based server project.
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:lucasmontano/mcp-montano-server.git
+git clone git@github.com:jefersonprimer/mcp-primer-server.git
 cd mcp-montano-server
 ```
 
@@ -39,9 +39,9 @@ npm start
 ```json
 {
   "mcpServers": {    
-    "montano-mcp-server": {
+    "primer-mcp-server": {
       "command": "node",      
-      "args": ["path/to/mcp-montano-server/build/index.js"]
+      "args": ["path/to/mcp-primer-server/build/index.js"]
     }
   }
 }
