@@ -50,7 +50,7 @@ npm start
 ## Project Structure
 
 ```
-mcp-montano-server/
+mcp-primer-server/
 ├── src/           # Source code
 ├── build/         # Compiled JavaScript files
 ├── node_modules/  # Dependencies
